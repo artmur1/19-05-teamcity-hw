@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1567cdf3-d3dd-4b2a-82c7-16b547b991df)# Домашнее задание к занятию 11 «Teamcity» - `Мурчин Артем`
+# Домашнее задание к занятию 11 «Teamcity» - `Мурчин Артем`
 
 ## Подготовка к выполнению
 
